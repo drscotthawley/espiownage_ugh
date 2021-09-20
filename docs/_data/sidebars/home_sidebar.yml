@@ -38,7 +38,7 @@ entries:
       url: iv_bbox_cyclegan.html
     - output: web,pdf
       title: CycleGAN Data -OBPR
-      url: IceVision-on-espiownage-cyclegan-obpr.html
+      url: iv_cyclegan_obpr.ipynb
     - output: web,pdf
       title: (New)Fake Data
       url: iv_bbox_fake2.html
