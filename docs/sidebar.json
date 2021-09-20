@@ -12,7 +12,7 @@
     "Bounding Boxes" : {
         "Real Data": "iv_bbox_real.html",
         "CycleGAN Data": "iv_bbox_cyclegan.html",
-        "CycleGAN Data -OBPR": "IceVision-on-espiownage-cyclegan-obpr.html",
+        "CycleGAN Data -OBPR": "iv_cyclegan_obpr.ipynb",
         "(New)Fake Data": "iv_bbox_fake2.html",
         "Pre-cleaned '15 or more' Real Data": "IceVision-on-espiownage-preclean.html"
     },
