@@ -11,7 +11,7 @@ In this incarnation, we'll be making it an image-segmentation code instead of an
 
 ### Preliminaries
 
-Ubuntu (& probably other Linuxes):
+Ubuntu (& probably other Linux):
 ```bash
 sudo apt-get install python3-tk
 ```
