@@ -44,7 +44,7 @@ entries:
       url: iv_bbox_fake2.html
     - output: web,pdf
       title: Pre-cleaned '15 or more' Real Data
-      url: IceVision-on-espiownage-preclean.html
+      url: iv_bbox_preclean.ipynb
     output: web
     title: Bounding Boxes
   - folderitems:
